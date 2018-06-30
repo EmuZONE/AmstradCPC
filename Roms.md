@@ -1,5 +1,5 @@
-<a href="https://github.com/EmuZONE/AmstradCPC/raw/master/Roms/Abu%20Simbel%20Profanation%20(1985).DSK">Abu Simbel Profanation (1985)</a><p>
-After Burner (1988)
+<a href="https://github.com/EmuZONE/AmstradCPC/raw/master/Roms/Abu%20Simbel%20Profanation%20(1985).DSK">Abu Simbel Profanation (1985)</a><br>
+<a href="https://github.com/EmuZONE/AmstradCPC/raw/master/Roms/After%20Burner%20(1988).dsk">After Burner (1988)</a><br>
 After the War (1989)
 Alien 8 (1985)
 Alien Syndrome A (1988)
